@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "passport-oauth2": "^1.1.2"
+    "passport-oauth2": "^1.6.1"
   },
   "devDependencies": {
     "vows": "^0.8.0"
